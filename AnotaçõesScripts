@@ -1,0 +1,7 @@
+
+
+-Um script deve ter o formato .sh
+-UM script no Linux, deve começar com "#!/bin/bash" no cabeçalho
+-Para PERMITIR a execussão de um script, digitar no diretório do mesmo, o comando "chmod +x <NomeScript.sh>" , ele mudará de cor para arq executável.
+-Para EXECUTAR o script, estar no diretório do mesmo e digitar "./<nomeScript.sh>"
+
